@@ -1,0 +1,21 @@
+{
+  "Name": { "0": "MOHAMMED", "1": "AWADH", "2": "RAMADAN", "3": "ABDULARAHIM" },
+  "Animal": {
+    "0": "DOG",
+    "1": "CAT",
+    "2": "TIGER",
+    "3": "LEON",
+    "4": "WOLF",
+    "5": "FOX",
+    "6": "PIG"
+  },
+  "Color": {
+    "0": "RED",
+    "1": "BLUE",
+    "2": "BLACK",
+    "3": "YELLOW",
+    "4": "PURPLE ",
+    "5": "WHITE"
+  },
+  "Number": { "0": "ZERO", "1": "ONE", "3": "SEVEN" }
+}
